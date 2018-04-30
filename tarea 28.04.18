@@ -1,5 +1,6 @@
 Algoritmo sin_titulo
 	definir sueldo Como Entero
+	definir bono como entero 
 	
 	Escribir"ingrese sueldo:"
 	leer sueldo
