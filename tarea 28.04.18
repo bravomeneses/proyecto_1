@@ -1,0 +1,20 @@
+Algoritmo sin_titulo
+	definir sueldo Como Entero
+	
+	Escribir"ingrese sueldo:"
+	leer sueldo
+	
+	si(sueldo >= 250000 y sueldo <= 300000 )
+		Escribir"somos nada"
+	SiNo
+		escribir"estamos salvado"
+		
+		si(sueldo >= 300000 y sueldo <= 550000)
+			escribir"que patzoo"
+		SiNo
+			escribir"somos todo"
+		FinSi
+		
+	FinSi
+	
+FinAlgoritmo
